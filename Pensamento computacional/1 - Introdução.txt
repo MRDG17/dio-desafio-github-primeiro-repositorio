@@ -1,0 +1,28 @@
+** Objetivo geral
+
+* O que é pensamento computacional?
+
+- Processo de pensamento envolvido na expressão de soluções em passos computacionais
+ou algoritmos que podem ser implementados no computador
+
+Habilidade generalista = pode ser usada em qualquer area da vida
+
+** Baseado em 4 pilares
+
+* Decomposição
+(dividir o problema complexo em subproblemas)
+* Reconhecimento de padrões
+(Identificar padrões ou tendencias)
+* Abstração
+(Extrapoar o conceito do problema de forma generalista)
+* Design de algoritmos
+(Automatizar, Definir passo a passo a solução do problema.)
+
+
+Processo contínuo 
+
+- Definir uma solução
+- Testar a solução 
+- Aperfeiçoamento da solução encontrada
+
+

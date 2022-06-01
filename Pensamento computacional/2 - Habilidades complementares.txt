@@ -1,0 +1,33 @@
+** Habilidades 
+
+* Raciocínio lógico
+* Aperfeiçoamento
+
+- Raciocínio Lógico
+
+ Raciocínio lógico é uma forma de pensamento estruturado.
+
+{ 
+ Indução
+ Dedução
+ Abdução
+}
+
+Indução vem apartir do fenômeno observado(leis e teorias)
+
+Dedução é a previsão e explicação
+
+Abdução vem a premissa
+
+- Aperfeiçoamento
+ 
+ Apartir de uma solução, determinar pontos de melhora e refinamento)+
+
+- Ato de aperfeiçoar
+
+{
+Encontrar solução eficiente ( Melhor uso de recursos)
+Otimizar processos             
+Simplificar linhas de códigos ( Melhorar códigos e algoritmos)
+Funções bem definidas	      
+}
