@@ -1,0 +1,22 @@
+** Tecnicas de lógica de programação
+
+* Tecnica linear
+
+Ela é uma execução sequenciada.
+Recurso limitado.
+Única dimensão.
+
+* Tecnica Estruturada
+
+Objetivo
+
+- Escrita
+- Entendimento
+- Validação
+- Manutenção
+
+* Tecnica modular
+
+- Dados de entrada
+- Processo de transformação
+- Dados de saida

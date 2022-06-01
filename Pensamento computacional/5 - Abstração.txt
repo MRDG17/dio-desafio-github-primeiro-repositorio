@@ -1,0 +1,11 @@
+** Abstração
+
+* Abstrair = Observar, um ou mais elementos avaliando características
+e propriedades se separado.
+
+* Abstração = Processo intelectual de isolamento de um objeto da realidade.
+
+* Generalizar = Tornar-se geral, mais amplo, extensão.
+
+Generalização é julgar CARACTERISTICAS similares a uma classe. 
+

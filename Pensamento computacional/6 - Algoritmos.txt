@@ -1,0 +1,32 @@
+** Algoritmos
+
+Não opera sozinho
+precisa de instruções
+
+pra definir as intruções tem q saber 
+o que precisa ser feito.
+e qual a ordem de execução.
+precisa ser entendido por humano e por maquina.
+
+- Como construir um algoritmo?
+
+* Compreenção do problema
+* Definição de dados de entrada (O que precisa estar no programa)
+* Definir processamento
+* Definir dados de saída
+* Utilizar um método de contrução
+* Teste e diagnóstico
+
+** Narrativa 
+
+- Utilização da linguagem natural.
+
+** Fluxograma
+
+- Utilização de símbolos pré-definidos
+Conhecimento prévio da estutura dos simbolos.
+
+** Pseudocódigo
+
+- Portugol
+Passos a serem seguidos.

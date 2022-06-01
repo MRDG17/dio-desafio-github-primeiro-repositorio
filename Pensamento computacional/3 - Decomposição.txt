@@ -1,0 +1,19 @@
+** Decomposição
+
+Como decompor
+
+- Identificar ou coletar dados
+
+- Agregar os dados
+
+- Funcionalidade
+
+Exemplo:
+
+  Cozinhar
+
+- Identificar os ingredientes
+- Determinar as etapas (sequencial ou parelo)
+- Executar cada etapa
+- Agregar os ingredientes para finalizar(Recompor com coerência)
+

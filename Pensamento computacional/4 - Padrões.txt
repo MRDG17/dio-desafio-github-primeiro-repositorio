@@ -1,0 +1,18 @@
+** Padrões 
+
+ 	Reconhecimento de padrões
+
+- Modelo base
+- Estrutura invariante
+- Repetição
+
+(Similaridades e diferenças)
+
+- Compressão de dados
+
+* como reconhecer padões
+
+- Similaridade
+
+- Grupo conhecido e desconhecido
+

@@ -1,0 +1,10 @@
+** Lógica
+
+Uma forma de pensamento, estruturado que te auxilia a determinar
+o que é verdadeiro ou não dentro de um contexto.
+
+Organização e planejamento das instruções, assertivas em 
+um algoritmo, a fim de viabilizar a implantação de um programa.
+
+
+
